@@ -1,4 +1,5 @@
-pdx
+BeerJS PDX Chapter
 ===
+The PDX chapter of BeerJS meets once a month in Portland.
 
-'Watch' this repo for updates
+Details to be posted soon!
