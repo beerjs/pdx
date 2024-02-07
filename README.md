@@ -13,7 +13,7 @@ BeerJS is a global network of casual gatherings, focused on all things JavaScrip
 
 **Why Portland?**
 
-Portland's BeerJS chapter is a vibrant community of JavaScript developers of all levels, from seasoned veterans to curious newcomers. Whether you're a JavaScript pro or just starting your coding journey, you'll find a welcoming and supportive environment at our meetups.
+Portland's is a vibrant community filled with JavaScript developers of all levels, from seasoned veterans to curious newcomers. Whether you're a JavaScript pro or just starting your coding journey, you'll find a welcoming and supportive environment at our meetups.
 
 **Key Features:**
 
@@ -21,5 +21,11 @@ Portland's BeerJS chapter is a vibrant community of JavaScript developers of all
 -   **Open to all:** Whether you're a professional developer, a student, or simply interested in learning more about JavaScript, you're welcome to join us.
 -   **Inclusive and supportive:** We value diversity and strive to create a welcoming space for everyone, regardless of experience or background.
 -   **Networking opportunities:** Connect with other JavaScript developers, expand your professional network, and find potential collaborators.
+
+**A note about beer:**
+BeerJS is about creating social spaces to strengthen software communities. There is no requirement to drink to participate.
+
+**Code of Conduct:**
+All events, activities, and internet spaces that bear the beer.js name are subject to the [Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md). Simply put, harassment of any form will not be tolerated and should be reported to your local organizer or to [Jordan](https://twitter.com/jordanpapaleo) or [Darko](https://twitter.com/d_bozhinovski). Please drink responsibly and act in a way that honors the community values of respect and mutual enrichment that we share.
 
 **Ready to join?**
